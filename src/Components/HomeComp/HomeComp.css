@@ -1,0 +1,15 @@
+.banner{
+    position: relative;
+    background: url(../../Assets/banner1.png) no-repeat center;
+    background-size: cover;
+    height: 600px;
+    overflow: hidden;
+}
+/* Card{  
+    margin-top: 10px;
+}
+Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
